@@ -1,0 +1,3 @@
+663_3,1
+"Please enable removing language code from the Dev Center "language history" For example if you ever selected "ru" and "ru-ru" laguages and you published this xap to the Store then it causes Tile localization to show the en-us(default) tile localization which is bad.",2
+1,1

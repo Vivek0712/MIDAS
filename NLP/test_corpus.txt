@@ -1,0 +1,592 @@
+im asking microsoft gives permission like android app take data dont keep restricted like iphone
+somewhere android iphone
+windows store flag app requires trust example
+many thanks sameh hi know lot limitations wp8 os due high security os good time need allow apps extra works apps trust e hotmail app facebook app skype app
+idea develop regular app request permissions manifest app ask trust æ
+please add simple extremely helpful feature
+let us several pages put tiles name whatever want
+idea user running app reason rebooted phone case reboot happen event detect phone rebooted handle application accordingly
+add support biometric framework windows 7 8 allow hardware manufactures add fingerprint sensors device login login allows standard user guest kid mode wallet wp8 transaction activation
+would natural allow physical search key activate search function active application rather loading bing rarely goal
+allow platform built camera video apps use increase decrease volume hardware keys picture optical digital zoom camera
+wp8 add optional support hook hardware keys press events lens plug features hardware keys include vol vol stage 1 light press camera shutter stage 2 deep press camera shutter
+believe needs marking system os like option marking several emails pop mails
+intend delete several files photos songs easier way
+put apps one folder put startscreen like tile
+total uncomfortably think give user choose want bind search button
+would awesome
+make enter password apps choice
+big files cant transfered using skydrive praticle
+would improvement displayed graphic smilies instead
+usercontrol run context application created alarm reminder would access appropriate view models
+need option remove unused variables cs file factoring
+use usb removeable disk
+pls introduce pattern lockscreen like android
+repairing installation emulator work
+close emulator try run
+fails uninformative message indicating deployment failed
+information screen locked temperature news facebook twitter lock letters numbers
+search text
+wish apis save photos camera roll png format lossy jpeg format
+native access opencl c amp support would nice especially newer hardware arriving wp8
+please help im ahmed iraq wan na get arabic keyboard wp please
+application problems problem detected advance developer publication correction version client without knowing happening
+way give satisfaction buy evaluate applications
+communication channel use bing translator generate statement languages application translated
+believe feature cherish microsoft customers demonstrates respect consumer
+cases missing answer key unlock phone locked also missing call alert network enable disable network code 43 verify 43 enable 43 disable
+asking key act like screenshot capture command without change tabs emulator window release accelerometer
+even something simple ctrl would godsend
+lucky character dies even though player moving straight line nowhere æ
+please allow users view comments office docs e word ppt excel also allow user add comments docs
+provide single link retrieve applications specific publisher like android market
+please show scrollbars webbrowser control
+times greatly needed
+smartphone platforms like android ios blackberry supports launching one app another passing data
+really important organisation develops multiple apps wants interact
+feature implemented without affecting security model wp great wp developer world
+keep getting birthday notifications day early
+date peoplehub align calendar
+wp7 unique ability offer trails paid apps great
+however would nice developers could offer free apps possibility users voluntary donations
+devs workaround offer paid app trial version restrictions user clicks buy essentially donates dev
+however workaround disadvantage app apprearing free category though actually free
+therefore would great devs could put apps marketplace offering two buttons install free install donate e g 0 99
+price could splitted 30 70 like paid apps difference app appearing free category
+current process lengthy costly non us developers
+cant microsoft simplify
+make similar google
+read cumbersome process incline build free apps subscription rather getting money marketplace
+deal physical paperwork sending back forth step backwards living digital world
+heaps heaps really good developers outside us really want contribute making windows phone preferred choice please microsoft make simplier make digital
+would really helpful example developer makes app takes advantage schedule alarm api would like enable user select custom ringtone alarm
+api proposal would enable user select many ringtones already available phone save developers trouble implement custom ringtones
+try copy paste multiple recipient number box messaging 2nd last number duplicated
+even developer create apps individual users standalone
+need target corporates would need apis device management also like zune single user would need enterprise server application control devices employees remotely apply corporate policies device well
+make usefull app run ussd code
+please allow access gmails todo list sync google account added windows phone
+calendar see todo list hotmail like would great add gmails ones ability make changes sync happens ability add todo items get sync phone
+hi biggest icon size requited 200x200 bit marketplace single app page resized 240x240 losing quality
+cant add update delete alarms reminders backgroundagent
+itd great least ability change edit reminders alarms created app
+want get response app hanle
+would useful able change names apps appear check app hub dashboard
+developers must given additional enumeration values socketype protocoltype create variety sockets like raw sockets based icmp igmp etc
+allow create alert reminder background task execution
+allow orientation horizontal listbox would like use selectionchanged event handler create menu using listbox control
+heading says provide tools prevent users reinstalling apps rather buy full version stop devs deprived purchases deserve
+half point app information live tile id like polite reminder show every often havent pinned simply dont know whether
+disable feature entirely
+detect screen shot attempt programmatically display obscure watermark graphics
+like android need phone level events like sms received sent event camera event phone turned event keypad lock event etc
+would like phone remote windows 8
+application installed wp way run application without user input e
+specifically want ability selective enabling application features wp7 run server side conversion
+newer hardware switch newer profile
+barring least allow merged listings wp7 wp8 versions customers clear upgrade path application
+could support native sdk direct x wp7
+ill take previous two
+barring least allow merged listings wp7 wp8 versions customers clear upgrade path æ
+concept explains well blogpost winrt transitions æ creating fast fluid metro uis http www scottlogic co uk blog colin 2011 10 winrt transitions creating fast fluid metro uis
+using vodafone gsm used data includes unicode characters thus whole message failed
+could imagine way sms icon shown lockscreen mini app icon shown aswell apps got notifications facebbok whatsapp
+add option delete future appointment calendar preserve previous used option repeat
+platform provide access call log create applications example retrive unknown numbers call log find information public directories
+customized unlock apps popular android symbian hope could wp7
+moment 1 1 relation companies countries
+ok small business bigger one
+several dev centers 3 countries extra sales offices countries
+time wp7 registration intends must use 1 country
+descriptions also appear differently depending viewed web zune pc device
+update description field documented purpose forums read field appear marketplace
+please provide way 1 predictably introduce newlines description fields 2 let see fields render different environments wysiwyg 3 show update description used updated app seem way control newlines application descriptions marketplace
+please provide way 1 predictably introduce newlines description fields 2 let see fields render different environments wysiwyg 3 show update description used updated æ
+quicker way go bottom metro screen view tons pined apps
+currently develop android ios
+interested developing windows phone would need device pay registration learn 3rd platform
+involves lot time large risk smaller development companies
+microsoft created incentives like free device blackberry free year membership amazon could drive lot developers platform crucial platform taking
+would jump opportunity adapt apps windows phone microsoft created incentives try platfrom
+cant use keyboard landscape mode app
+would finally able add customize alert text sounds
+course app would permission accepted user app would isolated storage private
+would nice see windows phone move optional vector based icons instead static bitmaps
+would allow application bar appbar resize say hd screens added
+ideally users would need 2 icons marketplace tile contains application name list icon app list
+appbars could created 48x48 resized needed
+know pain developers designers designers option would nice time saver future
+would nice able delete cert uploaded
+id like able decorate home screen pinning favorite photos directly within pictures application
+allow users organize tiles separate hubs
+secondary start hub use store occasionally used apps would good
+automated hub recently used apps would also good
+please allow access phone filesystem
+would great benefit developers manipulate sdcard resources etc etc
+hp eprint functionality apple airprint
+make connection devices possible
+want give textbox placeholder text
+requires creating custom control
+want available box
+oh want option create labels textbox
+provide access pictures photochooser camera roll emulator
+since easiest way get hold files used programs downloading network internet saving isolated storage would make whole thing lot easier could ftp
+ftp still one used protocols retrieving files
+using proxy always options since us would like able reach ftp servers separate network
+imap idle push emails sync read forward answered mails plus sync send folder
+email business impotant
+guys girls 45 years old de need really big clock main display
+thanks sorry english
+positioning cursor almost imposible
+wp support ussd menu umb well
+removed metro interface looks good desktop app mobile phone horrible
+volume rang 01 09 volume decrease
+continuing prior post allowing us explicitly flip secondary live tiles tap instead launching app request would allow action explicitly update tile triggering function call background task
+perhaps two ideas combined define action take creating updating tile flip tile execute background task simply launch app like normal possibly deep toast
+would really make livetiles live kind arent far biggest disappointment saw actual sdk
+coming ios see scrapped two apps going release wp7
+third scrapped inability location tracking background task frequently every 30 minutes sort stale data issue
+since user initiated wouldnt drain æ
+schedule namespace ist isnt possible access media library play songs user already device please add function get access media library
+another thing possibility modify notification wich shown alarm reminder rings
+need open application overwrite notify costumize get better improvement user
+extend api query phone volume vibration settings maybe even set
+please provide validation templates windowsphone controls
+however everybody physical device experiences emulator would great addition dev tools resources
+would nice useful email messages grouped date contacts grouped initial letter
+sharing audio video plain possibility share stuff already encoded package
+perhaps could available toolkit codeplex com
+needs alpha test mechanism available
+since beta test versions recently submitted waiting certification 9 days way us work together
+boss developer development tools absolutely needs see progress development timely manner
+beta program certified apps day might problem
+hardly usable beta test program since customers also need see app improvements timely manner
+need support special multitasking tasks like voip im
+cant create good apps services without api looks skype client wtf
+ios already apis
+volume headphone phone rings listening song raise max volume
+multi select zune delete albums create playlist
+read write accsess email sync settings could enable applications create custom sync profiles based week days time position etc
+implement soundwave touchless api phone touch free metro
+microsoft boffins showed use audio via speaker microphone dopplar computation detect gestures without touching screen
+want use phone games
+submission process publishers able check box apps made individuals 13 older 18 older
+flag feature marketplace app downloaded verify age downloader
+wp7 add multiple accounts different types live google facebook etc
+would nice allowed get basic information accounts
+example get list email accounts account report number unread emails
+think two ways improve beta program 1
+make apps available immediately
+developing ios using testflight android dont wait two hours beta code approved
+upload new version users download update immediately
+immediate approval possible apps published immediately available
+receive emails saying beta application published users able download application links provided email
+users reporting 1 2 day time app approved available download
+users receive strange marketplace error trying download application
+developing apps often useful leverage existing launchers choosers tasks access certain data perform operation
+currently exposed system level data operations
+would ideal allow apps expose certain bits data functionality apps provide complementary experience terms reuse information performing similar tasks
+imagine shopping apps able share set data wish list news apps able share list news feeds
+imagine installed app best another app perform series complex calculations gather weather data
+would responsibility app decide exposes data functionality
+first alleviated security screening prompting user allow app access another apps tasking features
+case youd better make videos carefully leave good user experience potential clients
+convert video flv flash video features much smaller size popular formats videos watched unhinderedly quick loading
+select flv output format
+requirements video bit rate encoder etc settings one one pop formats window
+everything finished click start button start video flv conversion process
+allowed preview converting process slideshow
+99 computer owners installed flash plugin web browser naturally flv swf flash videos acceptable popular videos formats mp4 avi mpeg ect
+convert video flv flash video features much smaller size æ
+allow backgroundaudioplayer play tracks medialibrary
+allow applications implement xna mediaplayer class run background
+please add possibility add spell check service provide data system wide one existed
+want build tiles app use buttons give custom style
+ugly since everyone implements another way resulting odd alignments bad text colours etc
+need simple standardized way create simple tiles function buttons
+beta testers test apps free
+would nice app game published marketplace could include list testers helped us get app free instead buy
+android ios blackberry compatible api dont
+would really nice gesture option wich put everything side left handed people scroll could also see content
+visual studio 11 new expression blend
+merge products together
+add open app marketplace app menu rate review uninstall pin start
+look professional scrolling upward end page downward top content page regardless material application stretched
+part effect whole operating system particularly belong application
+sometime stretched content page look professional
+need upd broadcast search devices network
+exception thrown intercepted debugger edit continue permits change code right debugging make code continue
+allow music copyrighted accessible huge issue
+link sql efficient could include sql sqlight library
+impossible connect easily ftp network suggest include future sdk
+want office hub open openoffice document
+currently dynamic data binding controlls like listbox recommended
+cant change phone search ie search google another provider actually work
+fix bing fix phone
+best unclear user pan zoom lose frame reference place trying ot show
+sometimes work around behaviour specifying search place youre trying indicate dependent upon search results
+search finds nothing get pin
+search finds something intended end pin pins far want
+possible tell task show pin pins specific point points would allow better user experience
+even could specify label pin would better nothing
+add option private lock photos movies songs calendar appointments
+exit button application softwares
+show used volume see much mb inclusive volume already used
+could upload csr microsoft provide signed certificate via ca
+would nice choice vibration sound given typing
+pin settings airplane mode wifi etc start screen
+allowing tester groups profiles would allow efficient test setup marketplace especially multiple products allowing group assigned app entered marketplace beta
+additionally would great additional support enterprise developers target specific set clients opposed public masses marketplace
+first enterprise developer account could established cost say 499 high enough deter hobbyists smaller companies enrolling time providing additional benefits larger enterprise level corporations
+ideally mini storefront splash page company product would help draw clients
+allowing tester groups profiles would allow efficient test setup marketplace especially æ
+app shows sensitive data deativated would good able use different image fast app switching instead screenshot application
+daemon service turnable per app basis way like periodic tasks
+microsoft advertise windows phone development apis visual studio
+please make instead fire event could used open apps search bar page
+least support displaying static gif image
+back forward buttons needed capacitive back button
+please consider enable support unsafe code silverlight xna apps
+maximizing current main apps would better 1mil appd marketplace
+create option allow periodic agents run even app opened x days
+gives family four live accounts
+xbox log play games problem yet w7 phone allows one user
+cant even log another account check edit let alone play games
+certain rival brand phones allows users switch live equivalent accounts problems whatsoever
+bought wp7 phone gaming mind theres one gamer house please make possible several gamertags used one device
+keeping message draft exiting would save hassle type
+windows phone development using visualstudio lite ide includes phone developement
+start expanding number apps use certain key word childrens stories new apps innovate displace got first potentially crappy apps
+secondly need limit number apps publisher submit particular key word
+way within app get notify whether user selected call dont call ended call means notification end call
+would useful specific service apps could released would extend features example adding google option sharing interface
+would nice power point could method pictures hub navigation
+received mvp week email would great able emulator location data use nmea file format either via file import export using files directly feed
+devices use format would great see supported windows phone
+use sip would great native sip client integrated
+also t9 keyboard would nice
+want able add picture media library start sharepicturetask let user see share pictures hub
+remove 50 apps limit phone 100 app limit marketplace web site users search app search term
+add quick access block button function used receiving spam chat
+would like see monthly yearly subscription model introduced let charge users 5 year app example
+really need assembly binding redirection publisher policies windows phone
+would great could add png support medialibrary save high quality png files picture library
+able use simple uncompressed wav files would open many possibilities ring tone editors make files recorded microphone ready used ringtones
+would great windows phone development team could allow us use rstp streaming protocol net compact framework use
+provide preference setting categorize apps long list categories app store rather names alphabetical order extremely helpful people lots apps provide ability maintain uniformity ui making user friendly
+provide usability live tiles start menu especially one needs drag multiple tiles long list
+please get metequotes make metatrader windows phone
+need logger class log error info verbose daemon information
+available android improves debugging process
+displays certificate signer information could easily upload two certificates different cns service names issued single ca would way telling apart
+minimally show cn subject matches service name provide client code along cn signer
+ideally would allow download certificate verification least provide md5 hash uploaded certificate
+right upload unsupported certificate even self signed cert apphub provide feedback
+allow user able set custom reminder time 2 hours 1 5 hours calendar entry
+present provide fixed values like 1hr 18hr
+tesco club card app shows points clubcard bar code avaible phone scan checkout
+apps nectar able scan stores also shows points balance allows shop online collect nectar points
+would like button click select countries microsoft already accounts taxes
+support file transfer pdf files
+bevy restrictions also heaped said user control order maintain performance sap battery life
+let live tiles live please
+alarm pops option edit reminder included instead constantly hit snooze exit reminder go object
+need posibility set keyboard language code
+focus textbox1 opens keyboard german layout focus textbox2 opens keyboard greek layout
+desktop net 2 0 3 5 problem windows forms inputlanguage currentinputlanguage inputlanguage fromculture new system globalization cultureinfo ar eg wpf exact need inputlanguagemanager setinputlanguage textbox1 new system globalization cultureinfo en us inputlanguagemanager setrestoreinputlanguage textbox1 true tested works fine
+keyboard installed nothing changes current layout remain
+please implement important translation application
+suggest create hardware ratings like ones winows 7 wei smartphone order help users developers match hardware apps games
+think ratings even enable developers create different versions app pointing specific hardware
+would nice able use computer keyboard using emulator
+bit frustrating type mouse
+cant use important libraries background agent like microsoft devices sensors limite power creat good application
+currently pin album would useful pin single image tile way easy access
+school schedule bus route picture someone like
+current adcontrol crashes app uses silverlight xna hybrid mode
+apparently never worked communicated devs
+normally wouldnt say unexceptable given silverlight xna hybrid new big thing wp7 issue needs immediate attention
+useful want add appointment time location notes previous one
+currently press hold appointment calendar option edit delete
+either enter info change date old appointment thats ideal lose record old appointments
+local scout show 20 results ability state radius current location businesses within radius shown could greatly exceed 20 also searching company name small business restaurant would good could show within local results
+often try search restaurant result local instead find website postcode
+would save hastle make planning journeys much simpler
+allow app disable text messaging preview
+allow users link app people hub directly
+api access contact information would useful immediately able click contact open related app e g
+skype twitter etc
+add full support regioninfo add possibility instanciate one two letter iso code
+use dispal country name user language
+add option hide keyboard specially want copy long text keyboard takes around 60 lcd space leaving tiny window work
+exactly title says
+please create tesco clubcard app
+allow ability view ssl certificates https connections ie option install ca
+suggests add kind storage store gps poi
+addition storage may integration contacts allow user geographical map contacts
+port internet explorer 10 mobile version soon ie10 ready get new ie10 features mobile phones build better webapps windows phone
+pls support fixed possitioned elements
+id like tiles various colours start screen
+allow access raw data signal strength imformation allow creation indoor location positioning using available wifi bluetooth cellular networks gps data available
+would nice app logged things happen phone ie
+would also great icon status bar indicates new events notifications
+id like ability application quick loaded right hand corder lock keypad
+thats possible allow button overriden pressed locked screen process
+also want able set left power batterysaver kicks
+default setting way late id prefer 50 remaining turning
+itd convenient developers without actual devices test apps certification requirements everything could actually tested emulator
+please upgrade youtube app microsoft corp metro ui instead directing mobile site
+expose songcollection class add remove song objects custome song collections
+allow backgorundaudioagent utilise xna framework devices song library played manipulated background
+would also need provide conversion mechanism convert song audiotrack default file type bap
+relax restrictions around application running locked screen background
+unless course go predetermined songcollection songcollection limitedplaylist æ
+need ability build apps capable video editing wp
+please devgroup make apis enable developers build apps include ability video trimming editing saving video library
+needed build voip application
+playing audio stream loudspeaker uncomfortable users
+sir samsung omnia w running latest update
+charged phone key press becomes laggy hard
+allow applications define custom shaders hlsl
+allow sophisticated game graphics real time image processing
+also allow access mp4 encoder library hardware accelerated apps generate videos
+also allow apps read existing videos modify frames write back
+gps tracking apps
+android app displays local wifi connections channel number strength course name
+wpf7 one like
+currently detect control embedded zune player currently playing
+cant done 3rd party apps implementing background audio streaming like soundtracker etc
+hello thank site
+happy able scan barcodes search button would like use application
+design guidelines law
+dont allow ugly interfaces stricter things like navigation general look feel even animation
+give developers good explanation wrong enforce good design
+something unresponsive allowed unless clear good reason
+apps take longer 2 3 seconds start need explain would take longer
+make marketplace highest quality
+support webgl like rest world microsoft done many times ms developers starting look stupid 5 years behind mobile market ballmer ipads powered pcs gates internet fad enough admit wrong early rather late much easier way
+biggest problem almost exclusively run working wp7 apps layout performance silverlight
+takes quite effort work around problem
+according web searches problem felt im lone
+itd great would work solution improve situation
+often come across word app might know want confirm meaning colud look right u r without need exit n go another app
+mod enjoy platform ever make landscape like upcoming windows 8 like original tile home screen
+address bar added calendar items give location appointment meeting
+address visible bing maps showing location calendar item
+vice versa able schedule via bing maps adding location maps linking calendar
+return back multi task support may optional significal improve advanced users experience
+current situation almost impossible create kind applications different trackers survilence etc
+color picker control like one phones settings would really useful apps want offer user choice colors
+know code one one standard controls
+current ie mobile browser doesnt support keyup correctly
+id like show youtube videos app
+would like control size positioning playback video
+option change working buttons double click slight
+allow video camera control start stop recording touch screen instead camera button
+demo prototype category like exists android would solve issue
+number contacts added group restricted 20 please remove cap
+already music streaming supported single songs
+wouldt great add albums skydrive stream directly
+prefferably albums would integrated music videos hub similarly jow skydrive pictures integrated pictures hub
+notifications exist pull shade ios android style
+pull shade take color theme choosen phone
+notifications exist within shade black tiles illustrate notification type short phrase email sms text facebook twitter mention etc
+background agent enable time execute application event execute periodically
+ability add custom buttons system call app like screenshots http bit ly incomingscreen http bit ly incallscreen click button launch callback access 1
+access call voice stream 2
+access call controls initiate new call end exists etc features provided standard buttons call page
+currenty hit back button folders mail app takes back homescreen
+please fix goes back inbox exit app
+addition current alphabetical view add sorting options like sort last installed sort recently accessed also would nice shortcut screen like fullscreen blue alphabet tiles dates 1 day ago 1 week ago 2 weeks ago
+something like actual webbrowsertask uri pointing file isolatedstorage
+add method run another app passing params
+function costumise tile depending mood
+homescreens tile automaticaly arranged recent used favart latest updated
+would better
+let us buy internet free sms minutes career codes
+let us call codes think one important things
+support word wrap something would let us give meaningful titles apps less app title duplications
+ability broadcast bind sockets port would handy making local client server applications dont need specify server ip
+want clean simple interface works
+example wrote four applications two days
+getting published took three months
+right
+process particularly someone age 18 getting dreamspark account particularly youve messed website app hub account absolutely awful æ
+windows phone dev powerless without low level api access drivers add features phone
+developed app plays audio using backgroundaudioplayer
+listening audio bluetooth pause audio bluetooth device disconnects audio resumes playing
+run continous background processing app frequency analysis mic anyone cares
+id like control priority background thread make user experience better
+note microsoft bought skype need app includes facebook chat skype chat video call normal calling
+enterprise feature
+calendar functionality allow specifying end date meeting appointment
+bring back reccurrence wm 6 5 could create complex meeting schedules
+write app simulate keyboard mouse dont need software pc
+sdk give ui explorer view isolated storage download upload isolated storage files device desktop
+help testing debugging applications use isolated storage significantly
+possible send email attachement e
+applying job
+faster way switch vibration open settings ringtones sounds
+would nice switcher volume control like button ring silent
+android gives capability zee much storage particular app uses could really
+ever make call phones screen goes dark even im puting ears
+ive read alot concerns regarding problem
+shouldnt user able see reviews made people countries
+denmark arent many wp users yet lot apps show marketplace without reviews even though see apptracker exist reviews
+sell phones qwerty sliding like htc 7 pro arrive os providing landscape apps something ridicolous unfair
+enter wrong word keyboard dictionary e g typing word
+way remove clear full dictionary using keyboard typing settings reset suggestions
+need way select word want delete
+control send desired picture native pinch zoom controller
+one line code enable native picture viewer pinch zoom
+instead tap screen choice locking top screen
+tuenti social network facebook spanish english catalan would useful spanish people south americans people signed integrated people hub
+lot spanish friends hesitated buy windows phone finally didnt buy favourite social network wasnt neither marketplace neither people hub
+android pull notification area well live tile notifications come ur using app n pin ur start screen u still know u notification
+possibility viewer writter rar files native support rar would good job
+built support dpws devices would nice especially printing wsd printers capturing images wsd scanners would significant feature
+implementing protocol impossible printing applications would welcome developers end users well available office applications etc
+phone lost allow remotely setting custom message lock screen e contact information
+picturedecoder decode jpg run ui thread
+especially thinking tile generation background agents id like enriched picturedecoder able run thread decode png well
+extended ability highlight text links within apps facebook twitter copy paste individual text word highlight text bubble wp7 txts
+improoved text edit cursor positioning highlighting text close top screeb far scrolling plays anf makes awkward get right
+wifi data transfer wp7 wp7
+ability applications follow data connection device especially edge 3g etc
+run background tasks live tiles carriers provide limited amount connection
+able call managed code functionality silver light 3
+windows phone silverlight dosnt provide dll system windows browser
+better multitasking ability background applications
+example playing game pause want play later
+want use phone usual go apps kind stuff
+later want continue playing paused hold back button see game open background 6 latest apps
+would really cool developers could get api access xbox live gamertags way dont make users create new account play multiplayer games
+would also help lot leaderboards
+look popular programs field photoshop office chrome etc one thing always constant 3rd party extensability
+bring windows phone native apps
+instead making new camera app allow extend native one
+bring native apps including office dialer people hub etc
+tab usefull jump textbox another e g
+registration forms using keyboard
+arrows keys move easly throught text
+5 groups need scroll case want find single contact
+z button open letter grid jump desired point list
+would like work like walgreens app
+mango way switch tab slow please implement quicker way roll back previous ies chrome
+greater permission manage music
+help define current position current music mediaplayer zune seek position
+obtain another possibilities move music default button fast forward
+windows desktop alt tab used switch quickly apps
+need something fast wp7
+one suggestion double tap home icon quickly see list open apps shown currently
+faster holding back key time
+zune payer support custome codec plugin one play format
+please expand messageboxbutton option silverlight include yes yes cancel option
+would nice modal control standard applications additional user choices available
+mutitasking area every app opened
+last five frozen restarted
+close app user able use finger flick upwards webos style
+addition user able take screenshot within multitasking area using finger gesture drag app towarda bottom screen screen capture icon appear outer edges icon fill green onve edges æ
+useful asign static ip
+ipv6 begins widely supported
+available wm6 5 older would great see included wp7 later
+allow sync ms exchange notes
+push notifications easily go unnoticeable history tile also tell missed something
+tile counts nice dont every app pinned want way
+history one days notifications would enough
+would really nice share task could pass stream order share image
+task could bring interface share photo pictures library
+would make simple share photos facebook twitter user already setup
+would also make possible finally share photos via sms email programmatically
+examples google able add google support people hubs
+amazon able integrate cloud music seamlessly music video hub
+flickr able integrate picture hub
+searching market able open app already installed
+please provide apis call forwarding call management functions hold unhold swap conference etc
+user would like able select songs put device library wake
+developer allow user choose songs included app
+main work around ive seen various alarm clock apps force user keep app open night particularly awesome battery life
+add option customize size pictures uploaded skydrive send via mail
+also add option autoupload full images tu skydrive 718x538 px preset lumia 800
+right start apps holding windows button saying start appname
+would great could start app adding instructions example facebook show messages office create new word document prime tv mark house season 1 episode 4 watched
+holding phone one hand palm hand thumb come close search button stretch far often send search function texting writing email
+possibilty 3 controls somehow made less sensitive become mechanical click
+touchmove event called move finger across screen
+cant create complex html pages fixed header scrollable content
+move content per javascript touchmove event triggered
+please implement whole touchapi internet explorer webbrowser control
+important mobile websites iphone android support
+emails non editable
+enable picture password windows 8
+deleting multiple sms email services
+thinking sdk allow create account app
+like google facebook linkedin want create contacts calendar access message hub also writing messages account
+marketplace upload kind restricted avoid problems
+im reading web page document would find incredibly useful able jump jump document without endless swiping
+elements one day
+cant see
+slightly fustrating one two screenshots take longer load skip swiping images
+like windows mobile 6 5 older version
+currently review page app list contextual menu
+pleasant go main page app marketplace see general pr©sentation screenshots users reviews
+add capability enter manual parametets visual voicemail
+currently applications view tge jumplist appears 40 apps
+30 apps already difficult find app think jumplist shuld always available
+believe scrolling improved
+sometimes users viewing long document sometimes might want skip middle lower section
+scrolling seems take little long
+thus idea actually developers make scrolling faster subsequent scroll like every 5 scrolls scrolling speed increase
+ensure buy clips movies videos directly wp7 without necessarily going pc
+swipe top two fingers flick last closed app seen windows 8
+instance email messaging notifications could silenced night whilst call ringtones would function normal
+benchmarking developer good developer work
+encourage developer design better apps makes easy customers choose right apps ibstead selectibg poorly designed apps wasting time
+see many developers benefited text2speech api
+also bring whole range new apps windows phone
+android c2dm google providing free account restrict number messages per day
+supporting windows authentication could usefull example writing app interacts microsoft dynamics crm
+currently defined set extensions supported files upload skydrive using new live api limit really usage api
+example app export csv files rename extensions txt able upload skydrive using live api
+language search critreria apps games
+non english marketplaces filled apps support english hard find apps native language
+ms windows phone make part network
+see shared resources
+one shared folder set phone device
+easy access transfer sides pc phone
+business feature would really nice support ability tie voip network voip phone calls common architecture sip session initiation protocol
+would like ability configure sip client ties voip pbx phone system wp7 would basically become desk phone extension
+way would really work well ran background like phones native phone functionality
+app developer customer lukes id good see everything made
+full almost entity framework support including graphic class designer interop regular ef assemblies making easy developers reuse model persistence classes phone without need redo work linq nasty tricks
+would nice deployment ability home pc able done wirelessly
+includes deploying visual studio developing using application deployment tool installed w dev tools
+benefit would dont microusb cable handy still dev deploy phone try something deploy friends xap phone w go find cable first
+could implemented via wifi course since zune wireless sync already even bluetooth get bluetooth data transfer ability
+wp7 5 lacks usb audio functionality microsoft sync cars
+bluetooth playing audio limited
+requesting mtp mass storage functionality since competitors like iphone able already sync
+isolatedstorage image file save local medialibrary record wave file
+slow little possibilities
+took realized forgot staticresource within style attribute
+hard create application supporting multiple languages
+give functionalities like resource manager given ide platforms
+managing resources folder structure made easier
+make eq mp3 player moment volume really low
+curently 20 persons max
+please enable pinning wi fi settings start page
+splashscreenimagelight splashscreenimagedark would great
+would great option select image isolatedstorage app update splash screen image needed
+make meteo style app would need adapt ui run windows phone
+would also nice deploy one package marketplace needed bits would tranfered
+add movies books would excellent addition system
+enable speech command play songs selection saying play song name play artist play album
+believe single important thing windows phone successful users countries services available
+marketplace become available would great users countries us could migrate accounts country really live
+since windows phones selling hot countries like india browser start displaying indian language characters
+allow user set different accent colors different tiles
+small tiles instead long list apps downloaded like android ios
+app able publish service disvoerable consumable apps
+example app process images want apps able dicover app submit photos process
+would like access stream music played via media library
+wish functionality access synchronize public folder exchange e g public contacts calendar
